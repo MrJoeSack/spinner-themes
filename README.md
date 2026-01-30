@@ -49,6 +49,16 @@ For those who follow the Beam. Thankee-sai.
 
 **File:** `dark-tower.json`
 
+### iPhone User
+Blue bubbles only.
+
+**File:** `iphone-user.json`
+
+### Android User
+Actually, Android did that first.
+
+**File:** `android-user.json`
+
 ### Marathon Identity
 Did I mention I ran a marathon?
 
