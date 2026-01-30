@@ -26,6 +26,7 @@ Custom spinner verb collections for [Claude Code](https://claude.ai/claude-code)
 | **I, Claudius** | "Letting all the poisons hatch" / "Becoming emperor accidentally" | [i-claudius.json](i-claudius.json) |
 | **SQL Server** | "Where are my scripts?" / "Estimating 1 row" | [sql-server.json](sql-server.json) |
 | **Layoff Speak** | "Right-sizing the organization" / "Laptop return instructions" | [layoff-speak.json](layoff-speak.json) |
+| **Small Store** | "Just browsing" / "The pity purchase" | [small-store.json](small-store.json) |
 
 ## Installation
 
