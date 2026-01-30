@@ -29,7 +29,7 @@ Custom spinner verb collections for [Claude Code](https://claude.ai/claude-code)
 | **Small Store** | "Just browsing" / "The pity purchase" | [small-store.json](small-store.json) |
 | **Ending Phone Call** | "Anyway..." / "Still on the line somehow" | [ending-phone-call.json](ending-phone-call.json) |
 | **Week in France** | "Raw milk cheese changed me" / "Bidet convert" | [week-in-france.json](week-in-france.json) |
-| **Dorinda Medley** | "I made it nice!" / "Not well, bitch" | [dorinda-medley.json](dorinda-medley.json) |
+| **Dorinda Medley** | "Slurring slightly" / "Assigning the fish room" | [dorinda-medley.json](dorinda-medley.json) |
 
 ## Installation
 
