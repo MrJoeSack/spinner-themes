@@ -19,6 +19,11 @@ AGI was last Tuesday.
 
 **File:** `ai-hype.json`
 
+### Robert Greene
+Concealing intentions. Saying less than necessary.
+
+**File:** `robert-greene.json`
+
 ### Fran Lebowitz
 The book remains unwritten.
 
