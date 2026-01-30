@@ -4,6 +4,11 @@ Custom spinner verb collections for [Claude Code](https://claude.ai/claude-code)
 
 ## Available Themes
 
+### Dark Tower
+For those who follow the Beam. Thankee-sai.
+
+**File:** `dark-tower.json`
+
 ### Performative
 For when you're doing the work and holding space.
 
