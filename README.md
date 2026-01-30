@@ -27,6 +27,7 @@ Custom spinner verb collections for [Claude Code](https://claude.ai/claude-code)
 | **SQL Server** | "Where are my scripts?" / "Estimating 1 row" | [sql-server.json](sql-server.json) |
 | **Layoff Speak** | "Right-sizing the organization" / "Laptop return instructions" | [layoff-speak.json](layoff-speak.json) |
 | **Small Store** | "Just browsing" / "The pity purchase" | [small-store.json](small-store.json) |
+| **Ending Phone Call** | "Anyway..." / "Still on the line somehow" | [ending-phone-call.json](ending-phone-call.json) |
 
 ## Installation
 
