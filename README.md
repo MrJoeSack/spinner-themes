@@ -4,6 +4,11 @@ Custom spinner verb collections for [Claude Code](https://claude.ai/claude-code)
 
 ## Available Themes
 
+### Layoff Speak
+Your role has been eliminated. This is not a reflection of your work.
+
+**File:** `layoff-speak.json`
+
 ### AI Hype
 AGI was last Tuesday.
 
