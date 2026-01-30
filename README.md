@@ -4,6 +4,11 @@ Custom spinner verb collections for [Claude Code](https://claude.ai/claude-code)
 
 ## Available Themes
 
+### AI Hype
+AGI was last Tuesday.
+
+**File:** `ai-hype.json`
+
 ### Silicon Valley
 Disrupting the industry. Pivoting. Pivoting again.
 
