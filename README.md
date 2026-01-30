@@ -4,6 +4,11 @@ Custom spinner verb collections for [Claude Code](https://claude.ai/claude-code)
 
 ## Available Themes
 
+### Passive Aggressive
+For when everything is fine. Really. It's fine.
+
+**File:** `passive-aggressive.json`
+
 ### Product Manager
 Corporate jargon for when you want your AI to speak fluent stakeholder.
 
