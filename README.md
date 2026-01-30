@@ -49,6 +49,16 @@ For those who follow the Beam. Thankee-sai.
 
 **File:** `dark-tower.json`
 
+### RTO Excuses
+Serendipitous encounters. Water cooler conversations.
+
+**File:** `rto-excuses.json`
+
+### Back From Vacation
+My inbox is a disaster. Did I miss anything?
+
+**File:** `back-from-vacation.json`
+
 ### iPhone User
 Blue bubbles only.
 
