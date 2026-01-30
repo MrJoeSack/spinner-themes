@@ -4,6 +4,11 @@ Custom spinner verb collections for [Claude Code](https://claude.ai/claude-code)
 
 ## Available Themes
 
+### Existential Dread
+For when the code compiles but the void remains.
+
+**File:** `existential-dread.json`
+
 ### Passive Aggressive
 For when everything is fine. Really. It's fine.
 
