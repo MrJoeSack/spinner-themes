@@ -1,0 +1,32 @@
+{
+  "spinnerVerbs": {
+    "mode": "replace",
+    "verbs": [
+      "Tell me about yourself",
+      "Whiteboarding",
+      "Reversing a linked list",
+      "Any questions for us?",
+      "Walk me through your resume",
+      "What's your biggest weakness?",
+      "System design round",
+      "Behavioral questions",
+      "STAR method",
+      "Culture fit",
+      "Take-home assignment",
+      "Live coding",
+      "Time complexity?",
+      "Can you optimize that?",
+      "Where do you see yourself",
+      "Why are you leaving?",
+      "Salary expectations",
+      "We'll be in touch",
+      "Next steps unclear",
+      "HR screen",
+      "Hiring manager sync",
+      "Panel interview",
+      "Case study",
+      "Thank you for your time",
+      "Ghosted"
+    ]
+  }
+}
