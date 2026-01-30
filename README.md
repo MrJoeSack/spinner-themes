@@ -20,8 +20,8 @@ Custom spinner verb collections for [Claude Code](https://claude.ai/claude-code)
 </td>
 </tr>
 <tr>
-<td><i>Sample: Parking lot that | Double-clicking on that | That's orthogonal | Let's circle back | Syncing with stakeholders | What's the ask? | That's a P2 | Let's unpack that | What's the customer signal? | Aligning on priorities</i></td>
-<td><i>Sample: Per my last email | As previously mentioned | Just following up | Friendly reminder | Circling back on this | That's certainly one approach | I'll take that under advisement | Noted | Hope this helps | Any update on this?</i></td>
+<td>Sample:<br>• Parking lot that<br>• Double-clicking on that<br>• That's orthogonal<br>• Let's circle back<br>• Syncing with stakeholders<br>• What's the ask?<br>• That's a P2<br>• Let's unpack that<br>• What's the customer signal?<br>• Aligning on priorities</td>
+<td>Sample:<br>• Per my last email<br>• As previously mentioned<br>• Just following up<br>• Friendly reminder<br>• Circling back on this<br>• That's certainly one approach<br>• I'll take that under advisement<br>• Noted<br>• Hope this helps<br>• Any update on this?</td>
 </tr>
 <tr>
 <td align="center">
@@ -36,8 +36,8 @@ Custom spinner verb collections for [Claude Code](https://claude.ai/claude-code)
 </td>
 </tr>
 <tr>
-<td><i>Sample: Serendipitous encounters | Water cooler conversations | The energy of being together | Mentorship opportunities | Hybrid isn't working | Whiteboard sessions | Innovation requires presence | Badge swipes don't lie | We need to be together | Face-to-face time</i></td>
-<td><i>Sample: My inbox is a disaster | Still catching up on email | I forgot my password | What did I miss? | It went by too fast | Let me show you photos | Already planning the next one | The food was amazing | I didn't want to come back | What day is it?</i></td>
+<td>Sample:<br>• Serendipitous encounters<br>• Water cooler conversations<br>• The energy of being together<br>• Mentorship opportunities<br>• Hybrid isn't working<br>• Whiteboard sessions<br>• Innovation requires presence<br>• Badge swipes don't lie<br>• We need to be together<br>• Face-to-face time</td>
+<td>Sample:<br>• My inbox is a disaster<br>• Still catching up on email<br>• I forgot my password<br>• What did I miss?<br>• It went by too fast<br>• Let me show you photos<br>• Already planning the next one<br>• The food was amazing<br>• I didn't want to come back<br>• What day is it?</td>
 </tr>
 <tr>
 <td align="center">
@@ -52,8 +52,8 @@ Custom spinner verb collections for [Claude Code](https://claude.ai/claude-code)
 </td>
 </tr>
 <tr>
-<td><i>Sample: Right-sizing the organization | Your role has been eliminated | Economic headwinds | This was not an easy decision | Streamlining operations | Your position is impacted | Laptop return instructions | Macroeconomic conditions | Strategic realignment | Making difficult decisions</i></td>
-<td><i>Sample: Where are my scripts? | Estimating 1 row | Experiencing CXPACKET | Waiting on PAGEIOLATCH_SH | Choosing deadlock victim | Spilling hash to tempdb | Scanning clustered index | Growing transaction log | Rolling back transaction | Running DBCC CHECKDB</i></td>
+<td>Sample:<br>• Right-sizing the organization<br>• Your role has been eliminated<br>• Economic headwinds<br>• This was not an easy decision<br>• Streamlining operations<br>• Your position is impacted<br>• Laptop return instructions<br>• Macroeconomic conditions<br>• Strategic realignment<br>• Making difficult decisions</td>
+<td>Sample:<br>• Where are my scripts?<br>• Estimating 1 row<br>• Experiencing CXPACKET<br>• Waiting on PAGEIOLATCH_SH<br>• Choosing deadlock victim<br>• Spilling hash to tempdb<br>• Scanning clustered index<br>• Growing transaction log<br>• Rolling back transaction<br>• Running DBCC CHECKDB</td>
 </tr>
 </table>
 
@@ -75,8 +75,8 @@ Custom spinner verb collections for [Claude Code](https://claude.ai/claude-code)
 </td>
 </tr>
 <tr>
-<td><i>Sample: Cold plunge | Ice bath complete | Waking up at 5am | Checking my Whoop | Optimizing sleep | Biohacking | First principles thinking | Audiobook at 2x speed | Few understand | Building in public</i></td>
-<td><i>Sample: Pivoting again | Pivoting | Default dead | Finding product-market fit | Shipping the MVP | Building the moat | Watching the burn rate | Extending the runway | Do things that don't scale | Blitzscaling</i></td>
+<td>Sample:<br>• Cold plunge<br>• Ice bath complete<br>• Waking up at 5am<br>• Checking my Whoop<br>• Optimizing sleep<br>• Biohacking<br>• First principles thinking<br>• Audiobook at 2x speed<br>• Few understand<br>• Building in public</td>
+<td>Sample:<br>• Pivoting again<br>• Pivoting<br>• Default dead<br>• Finding product-market fit<br>• Shipping the MVP<br>• Building the moat<br>• Watching the burn rate<br>• Extending the runway<br>• Do things that don't scale<br>• Blitzscaling</td>
 </tr>
 <tr>
 <td align="center">
@@ -91,8 +91,8 @@ Custom spinner verb collections for [Claude Code](https://claude.ai/claude-code)
 </td>
 </tr>
 <tr>
-<td><i>Sample: AGI was last Tuesday | Shoggoth with a smiley face | This changes everything | It's just a wrapper | Prompt engineering | Adding more RAG | Hallucinating | Emergent behavior | Chain of thought | Not hallucinating, confabulating</i></td>
-<td><i>Sample: Green bubbles are gross | Blue bubbles only | It just works | In the ecosystem | Trapped in the ecosystem | Happy in the ecosystem | AirDropping | My battery health is 84% | I could never switch | Waiting for the new iPhone</i></td>
+<td>Sample:<br>• AGI was last Tuesday<br>• Shoggoth with a smiley face<br>• This changes everything<br>• It's just a wrapper<br>• Prompt engineering<br>• Adding more RAG<br>• Hallucinating<br>• Emergent behavior<br>• Chain of thought<br>• Not hallucinating, confabulating</td>
+<td>Sample:<br>• Green bubbles are gross<br>• Blue bubbles only<br>• It just works<br>• In the ecosystem<br>• Trapped in the ecosystem<br>• Happy in the ecosystem<br>• AirDropping<br>• My battery health is 84%<br>• I could never switch<br>• Waiting for the new iPhone</td>
 </tr>
 <tr>
 <td align="center">
@@ -104,7 +104,7 @@ Custom spinner verb collections for [Claude Code](https://claude.ai/claude-code)
 </td>
 </tr>
 <tr>
-<td><i>Sample: Actually, Android did that first | It's not bloatware, it's features | Customizing my launcher | Sideloading | Accessing the file system | Green bubble and proud | Flashing a custom ROM | USB-C since 2015 | Headphone jack loyalty | Walled garden? No thanks</i></td>
+<td>Sample:<br>• Actually, Android did that first<br>• It's not bloatware, it's features<br>• Customizing my launcher<br>• Sideloading<br>• Accessing the file system<br>• Green bubble and proud<br>• Flashing a custom ROM<br>• USB-C since 2015<br>• Headphone jack loyalty<br>• Walled garden? No thanks</td>
 <td></td>
 </tr>
 </table>
@@ -127,8 +127,8 @@ Custom spinner verb collections for [Claude Code](https://claude.ai/claude-code)
 </td>
 </tr>
 <tr>
-<td><i>Sample: That's valid | Healing isn't linear | Setting boundaries | Trauma response | Unpacking that | Sitting with discomfort | Inner child work | Attachment style | Emotional labor | Reparenting myself</i></td>
-<td><i>Sample: Holding space | Protecting my energy | Sending good vibes | Manifesting | Speaking my truth | Living my truth | Doing the work | Bringing my whole self | Practicing self-care | Being authentic</i></td>
+<td>Sample:<br>• That's valid<br>• Healing isn't linear<br>• Setting boundaries<br>• Trauma response<br>• Unpacking that<br>• Sitting with discomfort<br>• Inner child work<br>• Attachment style<br>• Emotional labor<br>• Reparenting myself</td>
+<td>Sample:<br>• Holding space<br>• Protecting my energy<br>• Sending good vibes<br>• Manifesting<br>• Speaking my truth<br>• Living my truth<br>• Doing the work<br>• Bringing my whole self<br>• Practicing self-care<br>• Being authentic</td>
 </tr>
 <tr>
 <td align="center">
@@ -143,8 +143,8 @@ Custom spinner verb collections for [Claude Code](https://claude.ai/claude-code)
 </td>
 </tr>
 <tr>
-<td><i>Sample: Just browsing | Walking the same loop again | The pity purchase | Too far in to leave empty-handed | Avoiding eye contact | Touching things to look busy | Reading labels intently | Trapped by small talk | Saying hmm a lot | The polite laugh</i></td>
-<td><i>Sample: Anyway... | The triple bye | Thought we said goodbye | Well, I should let you go | I won't keep you | Still on the line somehow | Right right right | Yeah no totally | Sounds good | One more thing actually</i></td>
+<td>Sample:<br>• Just browsing<br>• Walking the same loop again<br>• The pity purchase<br>• Too far in to leave empty-handed<br>• Avoiding eye contact<br>• Touching things to look busy<br>• Reading labels intently<br>• Trapped by small talk<br>• Saying hmm a lot<br>• The polite laugh</td>
+<td>Sample:<br>• Anyway...<br>• The triple bye<br>• Thought we said goodbye<br>• Well, I should let you go<br>• I won't keep you<br>• Still on the line somehow<br>• Right right right<br>• Yeah no totally<br>• Sounds good<br>• One more thing actually</td>
 </tr>
 <tr>
 <td align="center">
@@ -159,8 +159,8 @@ Custom spinner verb collections for [Claude Code](https://claude.ai/claude-code)
 </td>
 </tr>
 <tr>
-<td><i>Sample: Raw milk cheese changed me | Bidet convert | Actually in France they... | The bread here is trash now | Americans don't understand | I left part of myself there | The coffee here is undrinkable | Correcting your pronunciation | Learning French on Duolingo | Planning my move</i></td>
-<td><i>Sample: Did I mention I ran a marathon? | Actually, 26.219 | Carb loading | Checking my Garmin | Chasing a PR | Qualifying for Boston | Can't, I have a long run tomorrow | Training for my next one | Uploading to Strava | Foam rolling</i></td>
+<td>Sample:<br>• Raw milk cheese changed me<br>• Bidet convert<br>• Actually in France they...<br>• The bread here is trash now<br>• Americans don't understand<br>• I left part of myself there<br>• The coffee here is undrinkable<br>• Correcting your pronunciation<br>• Learning French on Duolingo<br>• Planning my move</td>
+<td>Sample:<br>• Did I mention I ran a marathon?<br>• Actually, 26.219<br>• Carb loading<br>• Checking my Garmin<br>• Chasing a PR<br>• Qualifying for Boston<br>• Can't, I have a long run tomorrow<br>• Training for my next one<br>• Uploading to Strava<br>• Foam rolling</td>
 </tr>
 </table>
 
@@ -182,8 +182,8 @@ Custom spinner verb collections for [Claude Code](https://claude.ai/claude-code)
 </td>
 </tr>
 <tr>
-<td><i>Sample: Staring into the void | The abyss staring back | One must imagine Sisyphus happy | What's the point? | The universe is indifferent | Entropy increases | Remembering my insignificance | Is this all there is? | Searching for meaning | Does any of this matter?</i></td>
-<td><i>Sample: Saying less than necessary | Letting them hang themselves | Concealing intentions | Never outshining the master | Winning through actions | Keeping hands clean | Appearing weaker than I am | Creating mystique | Striking at the right moment | Avoiding the unhappy and unlucky</i></td>
+<td>Sample:<br>• Staring into the void<br>• The abyss staring back<br>• One must imagine Sisyphus happy<br>• What's the point?<br>• The universe is indifferent<br>• Entropy increases<br>• Remembering my insignificance<br>• Is this all there is?<br>• Searching for meaning<br>• Does any of this matter?</td>
+<td>Sample:<br>• Saying less than necessary<br>• Letting them hang themselves<br>• Concealing intentions<br>• Never outshining the master<br>• Winning through actions<br>• Keeping hands clean<br>• Appearing weaker than I am<br>• Creating mystique<br>• Striking at the right moment<br>• Avoiding the unhappy and unlucky</td>
 </tr>
 <tr>
 <td align="center">
@@ -195,7 +195,7 @@ Custom spinner verb collections for [Claude Code](https://claude.ai/claude-code)
 </td>
 </tr>
 <tr>
-<td><i>Sample: Still not writing the book | No one asked for my opinion but | The book remains unwritten | Having opinions | Missing old New York | Complaining about new New York | Avoiding tourists | The subway is not an option | Reading an actual book | Looking at a screen with disdain</i></td>
+<td>Sample:<br>• Still not writing the book<br>• No one asked for my opinion but<br>• The book remains unwritten<br>• Having opinions<br>• Missing old New York<br>• Complaining about new New York<br>• Avoiding tourists<br>• The subway is not an option<br>• Reading an actual book<br>• Looking at a screen with disdain</td>
 <td></td>
 </tr>
 </table>
@@ -218,8 +218,8 @@ Custom spinner verb collections for [Claude Code](https://claude.ai/claude-code)
 </td>
 </tr>
 <tr>
-<td><i>Sample: Letting all the poisons hatch | Poisoning the figs | Preparing mushrooms | Befriending the food-taster | Arranging a hunting accident | Smiling while the heir sickens | Comforting the new widow | Reading the will early | Rewarding informers | Extending fatal hospitality</i></td>
-<td><i>Sample: There's a fish in the percolator | The owls are not what they seem | Fire walk with me | That gum you like is coming back in style | Damn fine cup of coffee | The Black Lodge | Is it future or is it past? | We live inside a dream | Sometimes my arms bend back | Meanwhile</i></td>
+<td>Sample:<br>• Letting all the poisons hatch<br>• Poisoning the figs<br>• Preparing mushrooms<br>• Befriending the food-taster<br>• Arranging a hunting accident<br>• Smiling while the heir sickens<br>• Comforting the new widow<br>• Reading the will early<br>• Rewarding informers<br>• Extending fatal hospitality</td>
+<td>Sample:<br>• There's a fish in the percolator<br>• The owls are not what they seem<br>• Fire walk with me<br>• That gum you like is coming back in style<br>• Damn fine cup of coffee<br>• The Black Lodge<br>• Is it future or is it past?<br>• We live inside a dream<br>• Sometimes my arms bend back<br>• Meanwhile</td>
 </tr>
 <tr>
 <td align="center">
@@ -234,8 +234,8 @@ Custom spinner verb collections for [Claude Code](https://claude.ai/claude-code)
 </td>
 </tr>
 <tr>
-<td><i>Sample: All work and no play | Always been the caretaker | Typing the same sentence | REDRUM | Checking Room 237 | Navigating the maze | Lost in the maze | Talking to Tony | Ordering from Lloyd | Hair of the dog that bit me</i></td>
-<td><i>Sample: The world has moved on | Blaine is a pain | Ka is a wheel | Long days and pleasant nights | Thankee-sai | Following the Beam | Remembering the face of my father | Nineteen | The man in black fled across the desert | Watching the rose</i></td>
+<td>Sample:<br>• All work and no play<br>• Always been the caretaker<br>• Typing the same sentence<br>• REDRUM<br>• Checking Room 237<br>• Navigating the maze<br>• Lost in the maze<br>• Talking to Tony<br>• Ordering from Lloyd<br>• Hair of the dog that bit me</td>
+<td>Sample:<br>• The world has moved on<br>• Blaine is a pain<br>• Ka is a wheel<br>• Long days and pleasant nights<br>• Thankee-sai<br>• Following the Beam<br>• Remembering the face of my father<br>• Nineteen<br>• The man in black fled across the desert<br>• Watching the rose</td>
 </tr>
 <tr>
 <td align="center">
@@ -250,8 +250,8 @@ Custom spinner verb collections for [Claude Code](https://claude.ai/claude-code)
 </td>
 </tr>
 <tr>
-<td><i>Sample: I am the one who knocks | No half measures | Say my name | Tread lightly | Yeah science! | Respect the chemistry | Tight tight tight | The fly | Los Pollos Hermanos | Magnets</i></td>
-<td><i>Sample: Squat cobbler | Slippin' Jimmy | Chicago sunroof | S'all good man | Chicanery | Lightning bolts from my fingertips | World's second best lawyer | HHM | Ice Station Zebra Associates | A chimp with a machine gun</i></td>
+<td>Sample:<br>• I am the one who knocks<br>• No half measures<br>• Say my name<br>• Tread lightly<br>• Yeah science!<br>• Respect the chemistry<br>• Tight tight tight<br>• The fly<br>• Los Pollos Hermanos<br>• Magnets</td>
+<td>Sample:<br>• Squat cobbler<br>• Slippin' Jimmy<br>• Chicago sunroof<br>• S'all good man<br>• Chicanery<br>• Lightning bolts from my fingertips<br>• World's second best lawyer<br>• HHM<br>• Ice Station Zebra Associates<br>• A chimp with a machine gun</td>
 </tr>
 <tr>
 <td align="center">
@@ -263,7 +263,7 @@ Custom spinner verb collections for [Claude Code](https://claude.ai/claude-code)
 </td>
 </tr>
 <tr>
-<td><i>Sample: I made it nice! | Assigning the fish room | CLIP! | Not well, bitch | Slurring slightly | Welcome to Blue Stone Manor | The Berkshires | Money talks, wealth whispers | Say it, forget it | Write it, regret it</i></td>
+<td>Sample:<br>• I made it nice!<br>• Assigning the fish room<br>• CLIP!<br>• Not well, bitch<br>• Slurring slightly<br>• Welcome to Blue Stone Manor<br>• The Berkshires<br>• Money talks, wealth whispers<br>• Say it, forget it<br>• Write it, regret it</td>
 <td></td>
 </tr>
 </table>
