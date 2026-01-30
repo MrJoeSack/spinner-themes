@@ -1,0 +1,39 @@
+{
+  "spinnerVerbs": {
+    "mode": "append",
+    "verbs": [
+      "How was your trip?",
+      "Where did you go?",
+      "The weather was perfect",
+      "I really needed that",
+      "My inbox is a disaster",
+      "Still catching up on email",
+      "Did I miss anything?",
+      "What did I miss?",
+      "It went by too fast",
+      "I didn't want to come back",
+      "Already planning the next one",
+      "Let me show you photos",
+      "The food was amazing",
+      "You have to go there",
+      "It was so relaxing",
+      "I barely checked email",
+      "I didn't check email at all",
+      "Okay I checked email constantly",
+      "Still on vacation mode",
+      "Where does the time go?",
+      "Back to reality",
+      "The Sunday scaries were real",
+      "I forgot my password",
+      "What day is it?",
+      "Who scheduled this meeting?",
+      "I missed so many meetings",
+      "No meetings for a whole week",
+      "I could live there",
+      "We almost missed our flight",
+      "The flight was delayed",
+      "So how have things been here?",
+      "Anything exciting happen?"
+    ]
+  }
+}
