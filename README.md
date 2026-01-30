@@ -3,7 +3,7 @@
 Custom spinner verb collections for [Claude Code](https://claude.ai/claude-code).
 
 <p align="center">
-  <img src="demo.svg" alt="Spinner demo" width="500">
+  <img src="demo.gif" alt="Spinner demo">
 </p>
 
 ---
