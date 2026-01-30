@@ -4,6 +4,11 @@ Custom spinner verb collections for [Claude Code](https://claude.ai/claude-code)
 
 ## Available Themes
 
+### Fran Lebowitz
+The book remains unwritten.
+
+**File:** `fran-lebowitz.json`
+
 ### The Shining
 All work and no play.
 
