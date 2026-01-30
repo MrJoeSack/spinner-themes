@@ -1,6 +1,6 @@
 {
   "spinnerVerbs": {
-    "mode": "append",
+    "mode": "replace",
     "verbs": [
       "Moving fast and breaking things",
       "Disrupting the industry",
@@ -16,34 +16,17 @@
       "Extending the runway",
       "Watching the burn rate",
       "Talking to users",
-      "Do things that don't scale",
+      "Doing things that don't scale",
       "Making something people want",
       "Crushing it",
       "Killing it",
       "Changing the world",
       "Democratizing access",
-      "It's like Uber for",
-      "AI-first everything",
+      "Being like Uber for",
       "Raising the seed round",
       "Preparing for demo day",
-      "Office hours with partners",
       "Optimizing CAC to LTV",
-      "Reducing churn",
-      "Hockey stick growth incoming",
-      "Default alive",
-      "Default dead",
-      "Ramen profitable",
-      "Eating ramen",
-      "Looking at the term sheet",
-      "Diluting the cap table",
-      "Planning the exit",
-      "10x-ing the opportunity",
-      "First mover advantage",
-      "Network effects kicking in",
-      "Going viral",
-      "Building in public",
-      "Launching on Product Hunt",
-      "This is huge"
+      "Being ramen profitable"
     ]
   }
 }
