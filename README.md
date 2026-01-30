@@ -211,8 +211,16 @@ Custom spinner verb collections for [Claude Code](https://claude.ai/claude-code)
 <a href="dorinda-medley.json">JSON</a>
 </td>
 <td align="center">
+<img src="thumbnails/breaking-bad.png" width="200"><br>
+<b>Breaking Bad</b><br>
+<i>"No half measures"</i><br>
+<a href="breaking-bad.json">JSON</a>
 </td>
 <td align="center">
+<img src="thumbnails/better-call-saul.png" width="200"><br>
+<b>Better Call Saul</b><br>
+<i>"Squat cobbler"</i><br>
+<a href="better-call-saul.json">JSON</a>
 </td>
 <td align="center">
 </td>
