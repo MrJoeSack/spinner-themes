@@ -21,6 +21,7 @@ Custom spinner verb collections for [Claude Code](https://claude.ai/claude-code)
 | **Marathon Identity** | "Did I mention I ran a marathon?" / "Actually, 26.219" | [marathon-identity.json](marathon-identity.json) |
 | **The Shining** | "All work and no play" / "Always been the caretaker" | [the-shining.json](the-shining.json) |
 | **Dark Tower** | "The world has moved on" / "Blaine is a pain" | [dark-tower.json](dark-tower.json) |
+| **Therapy Speak** | "That's valid" / "Healing isn't linear" | [therapy-speak.json](therapy-speak.json) |
 | **Performative** | "Holding space" / "Protecting my energy" | [performative.json](performative.json) |
 | **I, Claudius** | "Letting all the poisons hatch" / "Becoming emperor accidentally" | [i-claudius.json](i-claudius.json) |
 | **SQL Server** | "Where are my scripts?" / "Estimating 1 row" | [sql-server.json](sql-server.json) |
