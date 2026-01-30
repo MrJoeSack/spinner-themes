@@ -1,0 +1,34 @@
+{
+  "spinnerVerbs": {
+    "mode": "append",
+    "verbs": [
+      "Where are my scripts?",
+      "Are you at the latest CU?",
+      "Experiencing CXPACKET",
+      "Waiting on PAGEIOLATCH_SH",
+      "Choosing deadlock victim",
+      "Escalating to table lock",
+      "Spilling hash to tempdb",
+      "Computing cardinality estimate",
+      "Scanning clustered index",
+      "Performing key lookup",
+      "Running DBCC CHECKDB",
+      "Growing transaction log",
+      "Clearing plan cache",
+      "Waiting for AG sync",
+      "Rolling back transaction",
+      "Forcing query plan",
+      "Detecting plan regression",
+      "Applying memory grant feedback",
+      "Synchronizing to secondary",
+      "Processing checkpoint",
+      "Updating statistics",
+      "Sampling table rows",
+      "Building hash table",
+      "Performing nested loops",
+      "Flushing log buffer",
+      "Waiting on ASYNC_NETWORK_IO",
+      "Estimating 1 row"
+    ]
+  }
+}
