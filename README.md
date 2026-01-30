@@ -69,9 +69,9 @@ Custom spinner verb collections for [Claude Code](https://claude.ai/claude-code)
 </td>
 </tr>
 <tr>
-<td>Sample:<br>• I'm humbled to announce<br>• Agree?<br>• This. So much this.<br>• Thoughts?<br>• Hot take:<br>• Unpopular opinion:<br>• Let that sink in<br>• Read that again<br>• Nobody talks about this<br>• Grateful for the journey</td>
-<td>Sample:<br>• What's your TAM?<br>• How does this scale?<br>• Defensible moat<br>• Path to profitability<br>• Unit economics<br>• Founder-market fit<br>• What's your burn rate?<br>• Traction metrics<br>• We're thesis-driven<br>• Let's stay in touch</td>
-<td>Sample:<br>• Tell me about yourself<br>• Whiteboarding<br>• Reversing a linked list<br>• Any questions for us?<br>• Walk me through your resume<br>• System design round<br>• Behavioral questions<br>• Where do you see yourself<br>• We'll be in touch<br>• Ghosted</td>
+<td>Sample:<br>• Announcing humbly<br>• Agreeing loudly<br>• Letting that sink in<br>• Reading that again<br>• Sharing a hot take<br>• Feeding the algorithm<br>• Thought leading<br>• Building in public<br>• Networking aggressively<br>• Crushing it publicly</td>
+<td>Sample:<br>• Calculating TAM<br>• Questioning scalability<br>• Building a moat<br>• Finding path to profitability<br>• Monitoring burn rate<br>• Extending runway<br>• Tracking traction metrics<br>• Due diligencing<br>• Syndicating the round<br>• Staying in touch</td>
+<td>Sample:<br>• Telling you about myself<br>• Whiteboarding<br>• Reversing a linked list<br>• Walking through my resume<br>• Surviving system design<br>• Live coding nervously<br>• Calculating time complexity<br>• Getting ghosted<br>• Negotiating the offer<br>• Accepting the role</td>
 </tr>
 </table>
 
@@ -99,7 +99,7 @@ Custom spinner verb collections for [Claude Code](https://claude.ai/claude-code)
 </tr>
 <tr>
 <td>Sample:<br>• Where are my scripts?<br>• Estimating 1 row<br>• Experiencing CXPACKET<br>• Waiting on PAGEIOLATCH_SH<br>• Choosing deadlock victim<br>• Spilling hash to tempdb<br>• Scanning clustered index<br>• Growing transaction log<br>• Rolling back transaction<br>• Running DBCC CHECKDB</td>
-<td>Sample:<br>• Nit:<br>• LGTM<br>• Have you considered<br>• Non-blocking comment<br>• Requesting changes<br>• Can we add a test?<br>• What about edge cases?<br>• Needs rebase<br>• Merge conflicts<br>• Ship it</td>
+<td>Sample:<br>• Nitpicking<br>• LGTMing<br>• Considering alternatives<br>• Leaving non-blocking comments<br>• Requesting changes<br>• Asking for tests<br>• Checking edge cases<br>• Waiting for CI<br>• Bikeshedding<br>• Shipping it</td>
 <td>Sample:<br>• Pager going off at 3am<br>• Is this P1?<br>• Escalating<br>• Root cause: unknown<br>• Checking dashboards<br>• Runbook says...<br>• It fixed itself<br>• Customer impacting<br>• Rollback initiated<br>• Postmortem pending</td>
 </tr>
 <tr>
@@ -117,8 +117,8 @@ Custom spinner verb collections for [Claude Code](https://claude.ai/claude-code)
 </td>
 </tr>
 <tr>
-<td>Sample:<br>• Marked as duplicate<br>• What have you tried?<br>• This question is closed<br>• 10 years ago someone asked<br>• Accepted answer outdated<br>• Show your code<br>• Off-topic for this site<br>• This saved my life<br>• Edit: solved it myself<br>• Downvoted without comment</td>
-<td>Sample:<br>• Have you tried turning it off and on?<br>• Clearing cache<br>• It works on my end<br>• Creating a ticket<br>• Checking with tier 2<br>• Is it plugged in?<br>• Try incognito mode<br>• Known issue<br>• Works as designed<br>• Have you tried updating?</td>
+<td>Sample:<br>• Marking as duplicate<br>• Asking what you've tried<br>• Closing the question<br>• Finding a 10-year-old answer<br>• Discovering outdated solution<br>• Creating minimal example<br>• Having my life saved<br>• Solving it myself<br>• Farming rep<br>• Accepting the answer</td>
+<td>Sample:<br>• Turning it off and on again<br>• Clearing cache<br>• Working on my end<br>• Creating a ticket<br>• Escalating to tier 2<br>• Checking if it's plugged in<br>• Trying incognito mode<br>• Blaming user error<br>• Confirming PEBKAC<br>• Rebooting the server</td>
 <td></td>
 </tr>
 </table>
@@ -194,9 +194,9 @@ Custom spinner verb collections for [Claude Code](https://claude.ai/claude-code)
 </td>
 </tr>
 <tr>
-<td>Sample:<br>• Actually...<br>• Well, technically<br>• Notifications on<br>• First!<br>• Great point, and also<br>• Underrated take<br>• Not to be that guy but<br>• In my experience<br>• I've been saying this for years<br>• Came here to say this</td>
-<td>Sample:<br>• Before we begin<br>• This episode is brought to you by<br>• Smash that subscribe button<br>• And now a word from our sponsors<br>• Rate and review<br>• Five stars helps the algorithm<br>• Let's dive in<br>• Super fascinating<br>• We'll put that in the show notes<br>• Thanks for tuning in</td>
-<td>Sample:<br>• Sitting on floor<br>• I want to address...<br>• This isn't an excuse but<br>• I've done a lot of reflecting<br>• No makeup today<br>• Long sigh<br>• I'm taking accountability<br>• Taking a break<br>• The old me is dead<br>• Part two coming soon</td>
+<td>Sample:<br>• Actually-ing<br>• Well-technically-ing<br>• Keeping notifications on<br>• Being first<br>• Piggybacking on this<br>• Jumping in here<br>• Respectfully disagreeing<br>• Replying at 3am<br>• Quote tweeting<br>• Engaging persistently</td>
+<td>Sample:<br>• Before we begin-ing<br>• Reading the ad<br>• Smashing that subscribe button<br>• Breaking for sponsors<br>• Helping the algorithm<br>• Diving in<br>• Unpacking that<br>• Adding to show notes<br>• Running out of time but<br>• Thanking you for tuning in</td>
+<td>Sample:<br>• Sitting on floor<br>• Addressing the situation<br>• Reflecting deeply<br>• Going makeup free<br>• Sighing deeply<br>• Taking accountability<br>• Working on myself<br>• Killing the old me<br>• Preparing part two<br>• Monetizing the apology</td>
 </tr>
 </table>
 
@@ -220,8 +220,8 @@ Custom spinner verb collections for [Claude Code](https://claude.ai/claude-code)
 </td>
 </tr>
 <tr>
-<td>Sample:<br>• Ope<br>• Just gonna sneak right past ya<br>• You betcha<br>• Oh for cute<br>• Yeah, no<br>• No, yeah<br>• Yeah, no, for sure<br>• That's different<br>• Uffda<br>• Drive safe</td>
-<td>Sample:<br>• The long goodbye<br>• Oh you shouldn't have<br>• That's... different<br>• Well, that's one way to do it<br>• If you think that's best<br>• Standing by the door for 40 minutes<br>• Don't want to be a bother<br>• I could go either way<br>• No, you go ahead<br>• Well, if you're having one</td>
+<td>Sample:<br>• Ope-ing<br>• Sneaking right past ya<br>• You betcha-ing<br>• Yeah-no-ing<br>• No-yeah-ing<br>• Making hot dish<br>• Ordering pop not soda<br>• Playing Duck Duck Gray Duck<br>• Saying uffda<br>• Bringing a casserole</td>
+<td>Sample:<br>• Saying the long goodbye<br>• Insisting you shouldn't have<br>• Finding that different<br>• Standing by the door 40 minutes<br>• Letting you go now<br>• Not wanting to be a bother<br>• Going either way<br>• Letting you go ahead<br>• Having one since you're having one<br>• Smiling through discomfort</td>
 <td></td>
 </tr>
 </table>
@@ -290,8 +290,8 @@ Custom spinner verb collections for [Claude Code](https://claude.ai/claude-code)
 </td>
 </tr>
 <tr>
-<td>Sample:<br>• Ugh, so exhausted from Bali<br>• I hate that I'm naturally thin<br>• My mentor won't stop calling<br>• Accidentally got promoted<br>• So annoying when people recognize me<br>• My apartment is too big<br>• I'm too qualified<br>• Champagne problems<br>• Cursed with good taste<br>• It's lonely at the top</td>
-<td>Sample:<br>• Anyway, enough about me<br>• So my therapist says<br>• TMI probably but<br>• You didn't ask but<br>• Speaking of which, my ex<br>• This reminds me of my childhood<br>• I don't usually share this but<br>• Here's my life story<br>• Buckle up<br>• I've said too much</td>
+<td>Sample:<br>• Exhausted from Bali<br>• Hating being naturally thin<br>• Avoiding mentor's calls<br>• Getting promoted accidentally<br>• Annoyed by recognition<br>• Complaining about big apartment<br>• Being too qualified<br>• Having champagne problems<br>• Being lonely at the top<br>• Humble announcing</td>
+<td>Sample:<br>• Anyway enough about me<br>• Quoting my therapist<br>• TMI-ing probably<br>• Sharing unsolicited<br>• Mentioning my ex again<br>• Flashing back to childhood<br>• Telling my life story<br>• Telling you to buckle up<br>• And-then-ing<br>• Admitting I've said too much</td>
 <td></td>
 </tr>
 </table>
@@ -319,9 +319,9 @@ Custom spinner verb collections for [Claude Code](https://claude.ai/claude-code)
 </td>
 </tr>
 <tr>
-<td>Sample:<br>• Now serving: G-247<br>• Wrong form<br>• My number is close<br>• The chairs<br>• Took the day off for this<br>• Is this the right line?<br>• Document missing<br>• The wait time estimate<br>• Worst photo ever<br>• Come back tomorrow</td>
-<td>Sample:<br>• Do you take card?<br>• These tomatoes<br>• Reusable bag ready<br>• The cheese guy knows me<br>• Arrived early for parking<br>• Is this organic?<br>• Locally sourced<br>• The bread sells out fast<br>• Could live here honestly<br>• See you next Saturday</td>
-<td>Sample:<br>• Hoping to get dismissed<br>• Civic duty<br>• The deliberation room<br>• Free parking though<br>• Summoned again<br>• Juror number 7<br>• Is my excuse good enough?<br>• Voir dire<br>• Beyond reasonable doubt<br>• Finished my book though</td>
+<td>Sample:<br>• Now serving G-247<br>• Filling wrong form<br>• Watching my number approach<br>• Enduring the chairs<br>• Taking the day off for this<br>• Finding the right line<br>• Missing a document<br>• Taking worst photo ever<br>• Coming back tomorrow<br>• Hearing Next!</td>
+<td>Sample:<br>• Asking if you take card<br>• Admiring these tomatoes<br>• Readying reusable bag<br>• Being known by cheese guy<br>• Sampling the honey<br>• Sourcing locally<br>• Racing to the bread stand<br>• Petting all the dogs<br>• Wanting to live here<br>• Overfilling the basket</td>
+<td>Sample:<br>• Hoping to get dismissed<br>• Doing civic duty<br>• Sitting in deliberation room<br>• Appreciating free parking<br>• Getting summoned again<br>• Surviving voir dire<br>• Actually being selected<br>• Earning $15 a day<br>• Finishing my book though<br>• Postponing indefinitely</td>
 </tr>
 </table>
 
@@ -367,8 +367,8 @@ Custom spinner verb collections for [Claude Code](https://claude.ai/claude-code)
 </td>
 </tr>
 <tr>
-<td>Sample:<br>• Picked up guitar again<br>• Training for something<br>• What if I just...<br>• It's not a crisis, it's clarity<br>• Life's too short<br>• Rediscovering old hobbies<br>• Therapy is actually great<br>• New chapter<br>• Reinvention era<br>• This is my time</td>
-<td>Sample:<br>• The warmth<br>• Original pressing<br>• Checking Discogs<br>• My setup<br>• Analog superiority<br>• 180 gram vinyl<br>• Flipping to side B<br>• The crackle is part of it<br>• Grail found<br>• My Kallax is full</td>
+<td>Sample:<br>• Picking up guitar again<br>• Training for something<br>• What-if-I-just-ing<br>• Finding clarity not crisis<br>• Realizing life's too short<br>• Rediscovering old hobbies<br>• Discovering therapy is great<br>• Starting new chapter<br>• Entering reinvention era<br>• Finally living</td>
+<td>Sample:<br>• Feeling the warmth<br>• Finding original pressing<br>• Checking Discogs<br>• Showing my setup<br>• Asserting analog superiority<br>• Flipping to side B<br>• Appreciating the crackle<br>• Finding the grail<br>• Filling my Kallax<br>• Knowing you don't get it</td>
 <td></td>
 </tr>
 </table>
@@ -441,8 +441,8 @@ Custom spinner verb collections for [Claude Code](https://claude.ai/claude-code)
 </tr>
 <tr>
 <td>Sample:<br>• I made it nice!<br>• Assigning the fish room<br>• CLIP!<br>• Not well, bitch<br>• Slurring slightly<br>• Welcome to Blue Stone Manor<br>• The Berkshires<br>• Money talks, wealth whispers<br>• Say it, forget it<br>• Write it, regret it</td>
-<td>Sample:<br>• Here's Johnny<br>• I'm sorry, Dave<br>• Droogs<br>• The long take<br>• One-point perspective<br>• The Kubrick stare<br>• A bit of the old ultraviolence<br>• Open the pod bay doors<br>• Daisy, Daisy<br>• Take 127</td>
-<td>Sample:<br>• Gabagool<br>• Therapy session<br>• Ducks in the pool<br>• That's my money, Paulie<br>• Bada bing<br>• Waste management consultant<br>• Sunday dinner<br>• Pine Barrens<br>• Ohhhh!<br>• Don't stop believing</td>
+<td>Sample:<br>• Heeeere's Johnny-ing<br>• Sorry Dave, I can't do that<br>• Hanging with the droogs<br>• Setting up the long take<br>• Framing one-point perspective<br>• Doing the Kubrick stare<br>• Preparing ultraviolence<br>• Opening pod bay doors<br>• Doing take 127<br>• Perfecting the frame</td>
+<td>Sample:<br>• Ordering the gabagool<br>• Attending therapy<br>• Watching ducks in the pool<br>• Visiting the Bada Bing<br>• Consulting on waste management<br>• Making Sunday dinner<br>• Getting lost in Pine Barrens<br>• Saying Ohhhh!<br>• Not stopping believing<br>• Handling this thing of ours</td>
 </tr>
 <tr>
 <td align="center">
@@ -462,9 +462,9 @@ Custom spinner verb collections for [Claude Code](https://claude.ai/claude-code)
 </td>
 </tr>
 <tr>
-<td>Sample:<br>• Prettyyy prettyyy good<br>• Larry David stare<br>• Social assassin<br>• Spite store<br>• That's a chat and cut<br>• Stop and chat<br>• Long uncomfortable pause<br>• Lampin'<br>• Palestinian Chicken<br>• Theme music playing</td>
-<td>Sample:<br>• Ew, David<br>• Fold in the cheese<br>• A little bit Alexis<br>• Simply the best<br>• Love that journey for you<br>• Bébé<br>• Best wishes, warmest regards<br>• The store<br>• Cafe Tropical<br>• What's your favorite season?</td>
-<td>Sample:<br>• The spice must flow<br>• Fear is the mind-killer<br>• Muad'Dib<br>• Kwisatz Haderach<br>• Walk without rhythm<br>• The sleeper has awakened<br>• Desert power<br>• Shai-Hulud<br>• Gom Jabbar<br>• The worm is the spice</td>
+<td>Sample:<br>• Finding it prettyyy prettyyy good<br>• Staring Larry David style<br>• Being a social assassin<br>• Opening a spite store<br>• Doing a chat and cut<br>• Getting stopped and chatted<br>• Pausing uncomfortably long<br>• Lampin'<br>• Hearing the theme music<br>• Creating a new problem</td>
+<td>Sample:<br>• Ew-David-ing<br>• Folding in the cheese<br>• Being a little bit Alexis<br>• Singing Simply the Best<br>• Loving that journey for you<br>• Saying bébé<br>• Sending best wishes, warmest regards<br>• Working at the store<br>• Eating at Cafe Tropical<br>• Selecting a wig</td>
+<td>Sample:<br>• Ensuring the spice flows<br>• Killing the mind with fear<br>• Becoming Muad'Dib<br>• Walking without rhythm<br>• Awakening from sleep<br>• Channeling desert power<br>• Summoning Shai-Hulud<br>• Surviving the Gom Jabbar<br>• Walking the Golden Path<br>• Riding the worm</td>
 </tr>
 <tr>
 <td align="center">
@@ -478,7 +478,7 @@ Custom spinner verb collections for [Claude Code](https://claude.ai/claude-code)
 </td>
 </tr>
 <tr>
-<td>Sample:<br>• Make it so<br>• Engage<br>• Tea, Earl Grey, hot<br>• There are four lights<br>• Resistance is futile<br>• Number One<br>• Set phasers to stun<br>• Red alert<br>• The Prime Directive<br>• Space, the final frontier</td>
+<td>Sample:<br>• Making it so<br>• Engaging<br>• Ordering tea, Earl Grey, hot<br>• Counting four lights<br>• Resisting futilely<br>• Consulting Number One<br>• Setting phasers to stun<br>• Going to red alert<br>• Upholding the Prime Directive<br>• Boldly going</td>
 <td></td>
 <td></td>
 </tr>
