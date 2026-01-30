@@ -28,6 +28,7 @@ Custom spinner verb collections for [Claude Code](https://claude.ai/claude-code)
 | **Layoff Speak** | "Right-sizing the organization" / "Laptop return instructions" | [layoff-speak.json](layoff-speak.json) |
 | **Small Store** | "Just browsing" / "The pity purchase" | [small-store.json](small-store.json) |
 | **Ending Phone Call** | "Anyway..." / "Still on the line somehow" | [ending-phone-call.json](ending-phone-call.json) |
+| **Week in France** | "Raw milk cheese changed me" / "Bidet convert" | [week-in-france.json](week-in-france.json) |
 
 ## Installation
 
