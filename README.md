@@ -4,6 +4,11 @@ Custom spinner verb collections for [Claude Code](https://claude.ai/claude-code)
 
 ## Available Themes
 
+### Performative
+For when you're doing the work and holding space.
+
+**File:** `performative.json`
+
 ### Existential Dread
 For when the code compiles but the void remains.
 
