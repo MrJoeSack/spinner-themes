@@ -30,7 +30,7 @@ Custom spinner verb collections for [Claude Code](https://claude.ai/claude-code)
 | **Ending Phone Call** | "Anyway..." / "Still on the line somehow" | [ending-phone-call.json](ending-phone-call.json) |
 | **Week in France** | "Raw milk cheese changed me" / "Bidet convert" | [week-in-france.json](week-in-france.json) |
 | **Dorinda Medley** | "Slurring slightly" / "Assigning the fish room" | [dorinda-medley.json](dorinda-medley.json) |
-| **Twin Peaks** | "The owls are not what they seem" / "Is it future or is it past?" | [twin-peaks.json](twin-peaks.json) |
+| **Twin Peaks** | "There's a fish in the percolator" / "Speaking backwards" | [twin-peaks.json](twin-peaks.json) |
 
 ## Installation
 
