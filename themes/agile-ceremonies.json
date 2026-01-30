@@ -1,0 +1,32 @@
+{
+  "spinnerVerbs": {
+    "mode": "replace",
+    "verbs": [
+      "Let's take that offline",
+      "What's blocking you?",
+      "Story points aren't hours",
+      "Updating the board",
+      "Parking lot item",
+      "Capacity planning",
+      "Velocity trending down",
+      "Grooming the backlog",
+      "That's a spike",
+      "Sprint commitment",
+      "Retro action items",
+      "Definition of done",
+      "Acceptance criteria unclear",
+      "Carrying over to next sprint",
+      "Standup ran long again",
+      "Who's the scrum master?",
+      "That's not a user story",
+      "Burndown looking concerning",
+      "Let's timebox this",
+      "Moving to in progress",
+      "Blocked by dependencies",
+      "Can we point this?",
+      "That's a 13",
+      "Fibonacci only",
+      "Two week sprints"
+    ]
+  }
+}

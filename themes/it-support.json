@@ -1,0 +1,32 @@
+{
+  "spinnerVerbs": {
+    "mode": "replace",
+    "verbs": [
+      "Have you tried turning it off and on?",
+      "Clearing cache",
+      "It works on my end",
+      "Creating a ticket",
+      "What's your ticket number?",
+      "Checking with tier 2",
+      "Remote session requested",
+      "Is it plugged in?",
+      "Which browser?",
+      "Try incognito mode",
+      "Password reset sent",
+      "Account locked",
+      "VPN connected?",
+      "Can you send a screenshot?",
+      "Known issue",
+      "Escalating to engineering",
+      "SLA response time",
+      "Closing this ticket",
+      "Was your issue resolved?",
+      "Please rate your experience",
+      "Checking the logs",
+      "User error",
+      "PEBKAC",
+      "Works as designed",
+      "Have you tried updating?"
+    ]
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "spinnerVerbs": {
+    "mode": "replace",
+    "verbs": [
+      "Marked as duplicate",
+      "What have you tried?",
+      "This question is closed",
+      "10 years ago someone asked",
+      "Accepted answer outdated",
+      "That library is deprecated",
+      "Show your code",
+      "Minimal reproducible example",
+      "Off-topic for this site",
+      "-1, unclear what you're asking",
+      "This saved my life",
+      "Commenting for visibility",
+      "Edit: solved it myself",
+      "Necrobumping",
+      "Rep farming",
+      "Gold badge holder",
+      "Protected question",
+      "This exact error",
+      "jQuery answer from 2011",
+      "Works for me",
+      "Needs more details",
+      "Bounty expiring",
+      "Community wiki",
+      "Downvoted without comment",
+      "Thanks in advance"
+    ]
+  }
+}

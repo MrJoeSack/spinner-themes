@@ -1,0 +1,32 @@
+{
+  "spinnerVerbs": {
+    "mode": "replace",
+    "verbs": [
+      "Pager going off at 3am",
+      "Is this P1?",
+      "Escalating",
+      "Root cause: unknown",
+      "Checking dashboards",
+      "Who's on secondary?",
+      "Runbook says...",
+      "Restarting the service",
+      "It fixed itself",
+      "False alarm",
+      "Actually not false alarm",
+      "Customer impacting",
+      "Rollback initiated",
+      "Incident channel created",
+      "Status page updated",
+      "ETA unknown",
+      "All hands on deck",
+      "Caffeine required",
+      "Handoff in 4 hours",
+      "This shouldn't happen",
+      "Logging a ticket",
+      "Known issue",
+      "Flaky alert",
+      "SLA at risk",
+      "Postmortem pending"
+    ]
+  }
+}

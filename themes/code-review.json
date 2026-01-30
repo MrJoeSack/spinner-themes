@@ -1,0 +1,32 @@
+{
+  "spinnerVerbs": {
+    "mode": "replace",
+    "verbs": [
+      "Nit:",
+      "LGTM",
+      "Have you considered",
+      "Non-blocking comment",
+      "Requesting changes",
+      "Left some thoughts",
+      "Minor suggestion",
+      "Can we add a test?",
+      "What about edge cases?",
+      "This might break",
+      "Approved with comments",
+      "Just one thing",
+      "Actually, several things",
+      "Needs rebase",
+      "Merge conflicts",
+      "Who approved this?",
+      "Let's discuss offline",
+      "Per our style guide",
+      "Optional: consider",
+      "Future improvement:",
+      "Out of scope but",
+      "Bikeshedding",
+      "Ship it",
+      "Waiting for CI",
+      "Stale review"
+    ]
+  }
+}
