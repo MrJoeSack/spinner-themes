@@ -4,6 +4,11 @@ Custom spinner verb collections for [Claude Code](https://claude.ai/claude-code)
 
 ## Available Themes
 
+### Silicon Valley
+Disrupting the industry. Pivoting. Pivoting again.
+
+**File:** `silicon-valley.json`
+
 ### Fran Lebowitz
 The book remains unwritten.
 
