@@ -2,6 +2,39 @@
 
 Custom spinner verb collections for [Claude Code](https://claude.ai/claude-code).
 
+<p align="center">
+  <img src="demo.svg" alt="Spinner demo" width="500">
+</p>
+
+---
+
+## Featured
+
+<table>
+<tr>
+<td align="center" width="33%">
+<img src="thumbnails/sql-server.png" width="180"><br>
+<b>SQL Server</b><br>
+<a href="themes/sql-server.json">JSON</a>
+</td>
+<td align="center" width="33%">
+<img src="thumbnails/stack-overflow.png" width="180"><br>
+<b>Stack Overflow</b><br>
+<a href="themes/stack-overflow.json">JSON</a>
+</td>
+<td align="center" width="33%">
+<img src="thumbnails/ai-hype.png" width="180"><br>
+<b>AI Hype</b><br>
+<a href="themes/ai-hype.json">JSON</a>
+</td>
+</tr>
+<tr>
+<td>Sample:<br>• Estimating 1 row<br>• Experiencing CXPACKET<br>• Waiting on PAGEIOLATCH_SH<br>• Choosing deadlock victim<br>• Spilling hash to tempdb<br>• Growing transaction log<br>• Rolling back transaction<br>• Running DBCC CHECKDB<br>• Scanning clustered index<br>• Clearing plan cache</td>
+<td>Sample:<br>• Marking as duplicate<br>• Asking what you've tried<br>• Closing the question<br>• Finding a 10-year-old answer<br>• Discovering outdated solution<br>• Creating minimal example<br>• Having my life saved<br>• Solving it myself<br>• Farming rep<br>• Accepting the answer</td>
+<td>Sample:<br>• Noting AGI was last Tuesday<br>• Shoggoth-with-a-smiley-facing<br>• Noting this changes everything<br>• Noting it's just a wrapper<br>• Prompt engineering<br>• Adding more RAG<br>• Hallucinating<br>• Exhibiting emergent behavior<br>• Chain of thoughting<br>• Not hallucinating confabulating</td>
+</tr>
+</table>
+
 ---
 
 ## Work Life
@@ -82,11 +115,6 @@ Custom spinner verb collections for [Claude Code](https://claude.ai/claude-code)
 <table>
 <tr>
 <td align="center" width="33%">
-<img src="thumbnails/sql-server.png" width="180"><br>
-<b>SQL Server</b><br>
-<a href="themes/sql-server.json">JSON</a>
-</td>
-<td align="center" width="33%">
 <img src="thumbnails/code-review.png" width="180"><br>
 <b>Code Review</b><br>
 <a href="themes/code-review.json">JSON</a>
@@ -96,30 +124,16 @@ Custom spinner verb collections for [Claude Code](https://claude.ai/claude-code)
 <b>On-Call Engineer</b><br>
 <a href="themes/on-call-engineer.json">JSON</a>
 </td>
-</tr>
-<tr>
-<td>Sample:<br>• Where are my scripts?<br>• Estimating 1 row<br>• Experiencing CXPACKET<br>• Waiting on PAGEIOLATCH_SH<br>• Choosing deadlock victim<br>• Spilling hash to tempdb<br>• Scanning clustered index<br>• Growing transaction log<br>• Rolling back transaction<br>• Running DBCC CHECKDB</td>
-<td>Sample:<br>• Nitpicking<br>• LGTMing<br>• Considering alternatives<br>• Leaving non-blocking comments<br>• Requesting changes<br>• Asking for tests<br>• Checking edge cases<br>• Waiting for CI<br>• Bikeshedding<br>• Shipping it</td>
-<td>Sample:<br>• Pager going off at 3am<br>• Asking is this P1<br>• Escalating<br>• Noting root cause unknown<br>• Checking dashboards<br>• Consulting the runbook<br>• Watching it fix itself<br>• Being customer impacting<br>• Initiating rollback<br>• Postmortem pending</td>
-</tr>
-<tr>
-<td align="center">
-<img src="thumbnails/stack-overflow.png" width="180"><br>
-<b>Stack Overflow</b><br>
-<a href="themes/stack-overflow.json">JSON</a>
-</td>
-<td align="center">
+<td align="center" width="33%">
 <img src="thumbnails/it-support.png" width="180"><br>
 <b>IT Support</b><br>
 <a href="themes/it-support.json">JSON</a>
 </td>
-<td align="center">
-</td>
 </tr>
 <tr>
-<td>Sample:<br>• Marking as duplicate<br>• Asking what you've tried<br>• Closing the question<br>• Finding a 10-year-old answer<br>• Discovering outdated solution<br>• Creating minimal example<br>• Having my life saved<br>• Solving it myself<br>• Farming rep<br>• Accepting the answer</td>
+<td>Sample:<br>• Nitpicking<br>• LGTMing<br>• Considering alternatives<br>• Leaving non-blocking comments<br>• Requesting changes<br>• Asking for tests<br>• Checking edge cases<br>• Waiting for CI<br>• Bikeshedding<br>• Shipping it</td>
+<td>Sample:<br>• Pager going off at 3am<br>• Asking is this P1<br>• Escalating<br>• Noting root cause unknown<br>• Checking dashboards<br>• Consulting the runbook<br>• Watching it fix itself<br>• Being customer impacting<br>• Initiating rollback<br>• Postmortem pending</td>
 <td>Sample:<br>• Turning it off and on again<br>• Clearing cache<br>• Working on my end<br>• Creating a ticket<br>• Escalating to tier 2<br>• Checking if it's plugged in<br>• Trying incognito mode<br>• Blaming user error<br>• Confirming PEBKAC<br>• Rebooting the server</td>
-<td></td>
 </tr>
 </table>
 
@@ -140,22 +154,17 @@ Custom spinner verb collections for [Claude Code](https://claude.ai/claude-code)
 <a href="themes/silicon-valley.json">JSON</a>
 </td>
 <td align="center" width="33%">
-<img src="thumbnails/ai-hype.png" width="180"><br>
-<b>AI Hype</b><br>
-<a href="themes/ai-hype.json">JSON</a>
+<img src="thumbnails/iphone-user.png" width="180"><br>
+<b>iPhone User</b><br>
+<a href="themes/iphone-user.json">JSON</a>
 </td>
 </tr>
 <tr>
 <td>Sample:<br>• Cold plunging<br>• Completing the ice bath<br>• Waking up at 5am<br>• Checking my Whoop<br>• Optimizing sleep<br>• Biohacking<br>• First principles thinking<br>• Listening to audiobook at 2x<br>• Noting few understand<br>• Building in public</td>
 <td>Sample:<br>• Pivoting again<br>• Pivoting<br>• Being default dead<br>• Finding product-market fit<br>• Shipping the MVP<br>• Building the moat<br>• Watching the burn rate<br>• Extending the runway<br>• Doing things that don't scale<br>• Blitzscaling</td>
-<td>Sample:<br>• Noting AGI was last Tuesday<br>• Shoggoth-with-a-smiley-facing<br>• Noting this changes everything<br>• Noting it's just a wrapper<br>• Prompt engineering<br>• Adding more RAG<br>• Hallucinating<br>• Exhibiting emergent behavior<br>• Chain of thoughting<br>• Not hallucinating confabulating</td>
+<td>Sample:<br>• Noting green bubbles are gross<br>• Blue-bubbles-onlying<br>• Noting it just works<br>• Living in the ecosystem<br>• Being trapped in the ecosystem<br>• Being happy in the ecosystem<br>• AirDropping<br>• Checking my battery health<br>• Noting I could never switch<br>• Waiting for the new iPhone</td>
 </tr>
 <tr>
-<td align="center">
-<img src="thumbnails/iphone-user.png" width="180"><br>
-<b>iPhone User</b><br>
-<a href="themes/iphone-user.json">JSON</a>
-</td>
 <td align="center">
 <img src="thumbnails/android-user.png" width="180"><br>
 <b>Android User</b><br>
@@ -163,10 +172,12 @@ Custom spinner verb collections for [Claude Code](https://claude.ai/claude-code)
 </td>
 <td align="center">
 </td>
+<td align="center">
+</td>
 </tr>
 <tr>
-<td>Sample:<br>• Noting green bubbles are gross<br>• Blue-bubbles-onlying<br>• Noting it just works<br>• Living in the ecosystem<br>• Being trapped in the ecosystem<br>• Being happy in the ecosystem<br>• AirDropping<br>• Checking my battery health<br>• Noting I could never switch<br>• Waiting for the new iPhone</td>
 <td>Sample:<br>• Noting Android did that first<br>• Noting it's features not bloatware<br>• Customizing my launcher<br>• Sideloading<br>• Accessing the file system<br>• Green bubble and prouding<br>• Flashing a custom ROM<br>• USB-C since 2015-ing<br>• Maintaining headphone jack loyalty<br>• Rejecting the walled garden</td>
+<td></td>
 <td></td>
 </tr>
 </table>
