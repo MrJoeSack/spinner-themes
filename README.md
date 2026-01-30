@@ -4,6 +4,11 @@ Custom spinner verb collections for [Claude Code](https://claude.ai/claude-code)
 
 ## Available Themes
 
+### The Shining
+All work and no play.
+
+**File:** `the-shining.json`
+
 ### Dark Tower
 For those who follow the Beam. Thankee-sai.
 
