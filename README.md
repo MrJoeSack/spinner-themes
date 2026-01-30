@@ -4,25 +4,35 @@ Custom spinner verb collections for [Claude Code](https://claude.ai/claude-code)
 
 ## Available Themes
 
-### Layoff Speak
-Your role has been eliminated. This is not a reflection of your work.
+### Passive Aggressive
+For when everything is fine. Really. It's fine.
 
-**File:** `layoff-speak.json`
+**File:** `passive-aggressive.json`
+
+### Existential Dread
+For when the code compiles but the void remains.
+
+**File:** `existential-dread.json`
 
 ### AI Hype
 AGI was last Tuesday.
 
 **File:** `ai-hype.json`
 
+### Fran Lebowitz
+The book remains unwritten.
+
+**File:** `fran-lebowitz.json`
+
 ### Silicon Valley
 Disrupting the industry. Pivoting. Pivoting again.
 
 **File:** `silicon-valley.json`
 
-### Fran Lebowitz
-The book remains unwritten.
+### Product Manager
+Corporate jargon for when you want your AI to speak fluent stakeholder.
 
-**File:** `fran-lebowitz.json`
+**File:** `product-manager.json`
 
 ### The Shining
 All work and no play.
@@ -39,30 +49,20 @@ For when you're doing the work and holding space.
 
 **File:** `performative.json`
 
-### Existential Dread
-For when the code compiles but the void remains.
+### I, Claudius
+Roman imperial intrigue inspired by Robert Graves. For when your merge conflicts feel like succession politics.
 
-**File:** `existential-dread.json`
-
-### Passive Aggressive
-For when everything is fine. Really. It's fine.
-
-**File:** `passive-aggressive.json`
-
-### Product Manager
-Corporate jargon for when you want your AI to speak fluent stakeholder.
-
-**File:** `product-manager.json`
+**File:** `i-claudius.json`
 
 ### SQL Server
 For DBAs. Technical operations mixed with the questions we actually ask.
 
 **File:** `sql-server.json`
 
-### I, Claudius
-Roman imperial intrigue inspired by Robert Graves. For when your merge conflicts feel like succession politics.
+### Layoff Speak
+Your role has been eliminated. This is not a reflection of your work.
 
-**File:** `i-claudius.json`
+**File:** `layoff-speak.json`
 
 ## Installation
 
